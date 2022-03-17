@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello world 👋, I'm Samar Ayadi</h1>
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
-<h3 align="center">A passionate Full-Stack developer ,Creator, and Mentor from Tunisia</h3>
+<h3 align="center">A passionate Full-Stack developer Creator and Mentor from Tunisia</h3>
 <h3 align="center">I just like to help people learn and get started on becoming a developer 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarayadi&label=Profile%20views&color=0e75b6&style=flat" alt="samarayadi" /> </p>
