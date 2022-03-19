@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Full-Stack developer Creator and Mentor from Tunisia</h3>
 <h3 align="center">I just like to help people learn and get started on becoming a developer 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarayadi&label=Profile%20views&color=0e75b6&style=flat" alt="samarayadi" /> </p>
+
 
 - 🔭 I’m currently working on [PinguCoder](https://pingucoder.com/)
 
