@@ -3,6 +3,26 @@
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 <h3 align="center">A passionate Full-Stack developer Creator and Mentor from Tunisia</h3>
 <h3 align="center">I just like to help people learn and get started on becoming a developer 💻</h3>
+const Samar = {
+    education:[
+       {
+           level:"bachelor",
+           major:"computer engineering"   
+       }
+    ],
+    skills:{
+        programmingLanguages: ["javascript", "typescript", "java", "c#", "python"],
+        frontendDevelopment:["react","redux","tailwindcss","material-ui","bootstrap"],
+        backendDevelopment:["node.js","express","spring"],
+        database:["mongoDB","mysql","sqlite"],
+        baas:["firebase", "heroku"],
+        testing: ["jest"],
+        software:["illustrator","photoshop","3dsmax","xd"],
+        gameEngines:["unity"]
+    },
+    currentlyLearning:["typescript","spring"],
+    challenge: "I am doing #365DaysOfCode challenge to enhance my skills for fullstack development."
+}
 
 
 
