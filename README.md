@@ -5,7 +5,7 @@
 <h3 align="center">I just like to help people learn and get started on becoming a developer 💻</h3>
 
 
-- 🔭 I’m currently working on [PinguCoder](https://pingucoder.com/)
+- 🔭 I’m currently working on [PinguCoder]
 
 - 💬 Ask me about **Web development**
 
